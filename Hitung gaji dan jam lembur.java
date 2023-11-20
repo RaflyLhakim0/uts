@@ -1,7 +1,3 @@
-import java.util.Scanner;
-
-
-
 public class HitungGaji {
     public static void main(String[] args) {
     
